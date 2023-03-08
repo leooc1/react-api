@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-api/static/css/main.8e589792.css",
+    "main.js": "/react-api/static/js/main.b73886e2.js",
+    "static/media/pexels-photo-bw.jpeg": "/react-api/static/media/pexels-photo-bw.5a782543a5e25d56b36f.jpeg",
+    "static/media/loading.svg": "/react-api/static/media/loading.d145f55bcb96977859c94c20709101c7.svg",
+    "index.html": "/react-api/index.html",
+    "main.8e589792.css.map": "/react-api/static/css/main.8e589792.css.map",
+    "main.b73886e2.js.map": "/react-api/static/js/main.b73886e2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e589792.css",
+    "static/js/main.b73886e2.js"
+  ]
+}
