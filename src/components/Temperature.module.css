@@ -1,0 +1,14 @@
+.temp_Container{
+    display: flex;
+    flex-direction: column;
+}
+
+.temp_Container p {
+    text-align: center;
+    font-size: 18pt;
+}
+
+.temp_Container p span{
+    font-size: 20pt;
+    font-weight: bolder;
+}

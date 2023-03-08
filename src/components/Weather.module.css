@@ -1,0 +1,16 @@
+.weatherContainer{
+    text-align: center;
+    /* background-color: aqua; */
+    width: fit-content;
+}
+
+.weatherContainer img{
+    filter: drop-shadow(0px 0px 10px #0051ff);
+}
+
+.weatherContainer p{
+    text-align: center;
+    font-size: 2rem;
+    margin: 0;
+    text-transform: uppercase;
+}

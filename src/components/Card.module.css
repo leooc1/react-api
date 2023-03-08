@@ -1,0 +1,15 @@
+.cardContainer{
+    border: 2px solid #fff;
+    background-color: rgba(182, 182, 182, 0.623);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    width: 770px;
+    height: fit-content;
+    border-radius: 20px;
+}
+
+@media (max-width: 780px) {
+    .cardContainer{
+        width: 95%;
+    }
+}
